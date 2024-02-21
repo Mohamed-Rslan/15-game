@@ -1,0 +1,11 @@
+
+
+TO Do:
+
+-class to represent a node in the graph containing current state,parent and action 
+-a function to generate random initial states
+-a function that gives a visual representaion of the current state of the board
+-a queue to store the FRONTIER of the graph
+-a function to apply actions to a state and gives back the next state
+-a function to solve the puzzle (breadth-first search)
+-
